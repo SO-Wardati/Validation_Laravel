@@ -1,0 +1,51 @@
+nav, footer{
+    background-color: #BCD02E;
+}
+
+h1{
+    font-family: 'sofia', cursive;
+    font-size: 35px;
+    font-weight: 600;
+    color:#D03312;
+    text-decoration: underline;
+    text-align: center;
+}
+
+ul{
+    display:flex;
+    justify-content: center;
+
+}
+
+li{
+    list-style: none;
+    padding:5px
+}
+
+i{
+    padding: 7px;
+}
+
+a{
+    color: #044297;
+    font-size: 25px;
+    font-family: 'sofia', cursive;
+    font-weight: 500;
+    text-decoration: none;
+    padding: 2px;
+}
+
+a:hover{
+    background-color: blueviolet;
+    color:white;
+    border-radius: 30px;
+}
+
+footer{
+    color:#044297;
+    font-size: 25px;
+    padding:7px;
+    font-family: 'sofia',cursive;
+    text-align: center;
+}
+

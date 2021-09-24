@@ -1,0 +1,40 @@
+
+.liste{
+    display: flex;
+    justify-content: center;
+    }
+
+    table{
+        padding: 5px;
+        margin-top: 15px;
+        margin-bottom: 20%;
+        }
+
+th{
+    padding: 5px;
+    text-align: center;
+    font-size: 18px;
+    border:2px solid black;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    color: aliceblue;
+}
+
+td{
+    padding: 5px;
+    text-align: center;
+    font-size: 18px;
+    font-family: comica;
+    border-right: 2px solid black;
+}
+
+tr{
+background-color: #F9D8A5;
+padding: 2px;
+border: 2px solid black;
+}
+
+
+button{
+    border-radius: 70px;
+}

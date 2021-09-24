@@ -14,3 +14,6 @@ cp .env.example .env
 
 Faites cette commande pour faire les migrations et remplir la BD
 php artisan migrate --seed
+
+
+(Pas eu le temps de finir, trop d'erreurs et peu de temps pour tout résoudre)
